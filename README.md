@@ -1,3 +1,35 @@
+<div align="center">
+
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
+<img
+src="https://productimages.hepsiburada.net/s/129/375/110000079322244.jpg"
+alt="MPU"
+height="200"
+align="center"
+/>
+</a>
+
+<br />
+
+🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
+
+</div>
+
+<div align="center">
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=flat-square&color=success)](LICENSE.txt)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYV4NEUSVWZCY&source=url)
+
+[![GitHub issues](https://img.shields.io/github/issues/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers/graphs/contributors/)
+
+</div>
+
 # MPU I2C Drivers
 
 The MPU-9250, MPU-9150, MPU-6500, and MPU-6050 are 6-axis (MPU-6050) or 9-axis (MPU-9250, MPU-9150, MPU-6500) motion tracking devices that include a combination of accelerometer, gyroscope, and magnetometer sensors. They are commonly used in embedded systems to provide accurate motion and orientation sensing for various applications such as drones, robotics, and virtual reality. The sensors use the I2C protocol for communication and provide high precision and low noise data for reliable performance.
@@ -28,4 +60,4 @@ This project is currently under development, according to the following roadmap.
 | `Java` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 | `Javascript` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 
-# Sponsor and Support
+# Sponsors and Donations
