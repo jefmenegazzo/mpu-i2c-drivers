@@ -16,7 +16,7 @@ align="center"
 
 🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
 
-<br />
+<!-- <br /> -->
 </div>
 
 
