@@ -9,11 +9,17 @@ align="center"
 />
 </a>
 
+
+
+<div>
 <br />
 
 🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
 
 <br />
+</div>
+
+
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
