@@ -38,12 +38,11 @@ The libraries are available in C, C++, C#, Python, Java and Javascript (Node.js)
 
 To access the library documentation page in your programming language, select one of the options below.
 
-- [C](https://github.com/jefmenegazzo/mpu-i2c-drivers-c)
-- [C++](https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp)
-- [C#](https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp)
-- [Python](https://github.com/jefmenegazzo/mpu-i2c-drivers-python)
-- [Java](https://github.com/jefmenegazzo/mpu-i2c-drivers-java)
-- [Javascript (Node.js)](https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript)
+<div align="center">
+
+[C](https://github.com/jefmenegazzo/mpu-i2c-drivers-c)  | [C++](https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp) | [C#](https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp) | [Python](https://github.com/jefmenegazzo/mpu-i2c-drivers-python) | [Java](https://github.com/jefmenegazzo/mpu-i2c-drivers-java) | [Javascript (Node.js)](https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript)
+
+</div>
 
 # Roadmap
 
@@ -51,12 +50,12 @@ This project is currently under development, according to the following roadmap.
 
 | Language | MPU-9250 | MPU-9150 | MPU-6500 | MPU-6050 |
 | --- | --- | --- | --- | --- |
-| `C` | <span style="color: orange;"><span style="color: orange;">Planned</span></span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
-| `C++` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
-| `C#` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
-| `Python` |  <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> |
-| `Java` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
-| `Javascript` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
+| [C](https://github.com/jefmenegazzo/mpu-i2c-drivers-c) | <span style="color: orange;"><span style="color: orange;">Planned</span></span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
+| [C++](https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
+| [C#](https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
+| [Python](https://github.com/jefmenegazzo/mpu-i2c-drivers-python) |  <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> | <span style="color: green;">**Developing**</span> |
+| [Java](https://github.com/jefmenegazzo/mpu-i2c-drivers-java) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
+| [Javascript](https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 
 # Sponsors and Donations
 
@@ -69,3 +68,7 @@ By providing sponsorships and donations, you can support the continuous developm
 <a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6"><img src="img/blue.svg" height="40"></a>
 
 </div>
+
+Maintenance of this project is made possible by all the following contributors and sponsors.
+
+<!-- sponsors --><!-- sponsors -->
