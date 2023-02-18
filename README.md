@@ -19,7 +19,7 @@ align="center"
 <!-- <br /> -->
 </div>
 
-
+<div class="not-show">
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
@@ -31,6 +31,7 @@ align="center"
 [![GitHub stars](https://img.shields.io/github/stars/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/jefmenegazzo/mpu-i2c-drivers?style=flat-square)](https://github.com/jefmenegazzo/mpu-i2c-drivers/watchers)
 [![GitHub contributors](https://img.shields.io/github/contributors/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers/graphs/contributors/)
+</div>
 
 </div>
 
