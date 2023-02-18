@@ -9,7 +9,7 @@ align="center"
 />
 </a>
 
-<br /><br />
+<br />
 
 🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
 
