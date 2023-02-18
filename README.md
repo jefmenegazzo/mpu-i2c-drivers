@@ -2,9 +2,9 @@
 
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
 <img
-src="https://productimages.hepsiburada.net/s/129/375/110000079322244.jpg"
+src="https://raw.githubusercontent.com/jefmenegazzo/mpu-i2c-drivers/master/img/mpujpg.jpg"
 alt="MPU"
-height="200"
+height="150"
 align="center"
 />
 </a>
@@ -13,9 +13,7 @@ align="center"
 
 🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
 
-</div>
-
-<div align="center">
+<br />
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
@@ -49,7 +47,7 @@ To access the library documentation page in your programming language, select on
 
 # Roadmap
 
-This project is currently under development, according to the following roadmap.
+This project is currently under development, according to the following roadmap. Along with the source code libraries, wikis will also be created that provide comprehensive support documentation for configuring RPi, I2C, VNC, SSH, and other related topics.
 
 | Language | MPU-9250 | MPU-9150 | MPU-6500 | MPU-6050 |
 | --- | --- | --- | --- | --- |
@@ -61,3 +59,13 @@ This project is currently under development, according to the following roadmap.
 | `Javascript` |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 
 # Sponsors and Donations
+
+By providing sponsorships and donations, you can support the continuous development of these projects and help keep them active. The more sponsors I have, the more time I can devote to both existing and new projects. As a sponsor, you can suggest new features, support for other programming languages, MPU models, and your project suggestions will be given priority.
+
+<div align="center">
+
+<br />
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6"><img src="img/blue.svg" height="40"></a>
+
+</div>
