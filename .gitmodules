@@ -1,3 +1,6 @@
 [submodule "mpu-i2c-drivers-python"]
 	path = mpu-i2c-drivers-python
 	url = https://github.com/jefmenegazzo/mpu-i2c-drivers-python
+[submodule "mpu-i2c-drivers-javascript"]
+	path = mpu-i2c-drivers-javascript
+	url = https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript
