@@ -1,3 +1,11 @@
+<style type="text/css">
+
+    .not-show {
+        display: none;
+    }
+
+</style>
+
 <div align="center">
 
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
