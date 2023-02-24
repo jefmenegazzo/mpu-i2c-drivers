@@ -24,8 +24,8 @@ align="center"
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square&color=success)](LICENSE.txt)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-success.svg)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
-[![Donate](https://img.shields.io/badge/Donate-Github-success.svg)](https://github.com/sponsors/jefmenegazzo)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-success.svg?style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
+[![Donate](https://img.shields.io/badge/Donate-Github-success.svg?style=flat-square)](https://github.com/sponsors/jefmenegazzo)
 
 [![GitHub issues](https://img.shields.io/github/issues/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/issues)
 [![GitHub forks](https://img.shields.io/github/forks/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/network/members)
@@ -89,3 +89,4 @@ By providing sponsorships and donations, you can support the continuous developm
 Maintenance of this project is made possible by all the following contributors and sponsors.
 
 <!-- sponsors --><!-- sponsors -->
+
