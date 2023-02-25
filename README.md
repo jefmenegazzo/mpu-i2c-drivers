@@ -46,7 +46,7 @@
 <a href="https://github.com/sponsors/jefmenegazzo">
     <img src="https://img.shields.io/badge/Donate-Github-success.svg?style=flat-square" alt="Donate"/>
 </a>
-
+<br />
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/issues">
     <img src="https://img.shields.io/github/issues/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub issues"/>
 </a>
@@ -145,9 +145,9 @@ By providing sponsorships and donations, you can support the continuous developm
     <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6" alt="PayPal Sponsors"/>
 </a>
 
-<br />
-
 </div>
+
+<br />
 
 Maintenance of this project is made possible by all the following contributors and sponsors.
 
