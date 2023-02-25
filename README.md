@@ -1,10 +1,3 @@
-<!-- 
----
-title: MPU I2C Drivers
-layout: post
---- 
--->
-
 <div align="center">
 
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
@@ -88,8 +81,11 @@ By providing sponsorships and donations, you can support the continuous developm
 
 <br />
 
-[![Github Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white)](https://github.com/sponsors/jefmenegazzo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PayPal Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
+<!-- [![Github Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white)](https://github.com/sponsors/jefmenegazzo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![PayPal Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6) -->
+
+![Github Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white&link=https://github.com/sponsors/jefmenegazzo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![PayPal Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
 
 </div>
 
