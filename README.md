@@ -1,27 +1,25 @@
 <div align="center">
 
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
-<img
-src="https://raw.githubusercontent.com/jefmenegazzo/mpu-i2c-drivers/master/img/mpujpg.jpg"
-alt="MPU"
-height="150"
-align="center"
-/>
+    <img
+    src="https://raw.githubusercontent.com/jefmenegazzo/mpu-i2c-drivers/master/img/mpu.jpg"
+    alt="MPU"
+    height="150"
+    align="center"
+    />
 </a>
-
-
 
 <div>
 <br />
 
-🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌
+<!-- 🙌 Use [sponsors and donations](#Sponsors-and-Donations) to help support this project! 🙌 -->
+
+🙌 Use <a href="#Sponsors-and-Donations">sponsors and donations</a> to help support this project! 🙌
 
 <!-- <br /> -->
 </div>
 
-<div class="not-show">
-
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
+<!-- [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&color=success)](https://github.com/jefmenegazzo/mpu-i2c-drivers)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square&color=success)](LICENSE.txt)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-success.svg?style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
@@ -31,8 +29,39 @@ align="center"
 [![GitHub forks](https://img.shields.io/github/forks/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/graphs/contributors/)
-</div>
+[![GitHub contributors](https://img.shields.io/github/contributors/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue)](https://github.com/jefmenegazzo/mpu-i2c-drivers/graphs/contributors/) -->
+
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
+    <img src="https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed."/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&color=success" alt="Maintenance"/>
+</a>
+<a href="#LICENSE.txt">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square&color=success" alt="License: CC BY-NC-ND 4.0"/>
+</a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6">
+    <img src="https://img.shields.io/badge/Donate-PayPal-success.svg?style=flat-square" alt="Donate"/>
+</a>
+<a href="https://github.com/sponsors/jefmenegazzo">
+    <img src="https://img.shields.io/badge/Donate-Github-success.svg?style=flat-square" alt="Donate"/>
+</a>
+
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/issues">
+    <img src="https://img.shields.io/github/issues/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub issues"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/network/members">
+    <img src="https://img.shields.io/github/forks/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub forks"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/stargazers">
+    <img src="https://img.shields.io/github/stars/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/watchers">
+    <img src="https://img.shields.io/github/watchers/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub watchers"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/graphs/contributors/">
+    <img src="https://img.shields.io/github/contributors/jefmenegazzo/mpu-i2c-drivers?style=flat-square&color=blue" alt="GitHub contributors"/>
+</a>
 
 </div>
 
@@ -46,15 +75,39 @@ To access the library documentation page in your programming language of choice,
 
 <div align="center">
 
-[![Arduíno](https://img.shields.io/static/v1?label=&message=Arduino&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino&logoWidth=20&logo=arduino&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino)
+<!-- [![Arduíno](https://img.shields.io/static/v1?label=&message=Arduino&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino&logoWidth=20&logo=arduino&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino)
 [![C](https://img.shields.io/static/v1?label=&message=C&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-c&logoWidth=20&logo=C&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-c)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp&logoWidth=20&logo=cplusplus&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp)
 [![C#](https://img.shields.io/static/v1?label=&message=C%23&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp&logoWidth=20&logo=csharp&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-python&logoWidth=20&logo=python&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-python)
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-java&logoWidth=20&logo=openjdk&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-java)
 [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript&logoWidth=20&logo=javascript&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript)
-[![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript&logoWidth=20&logo=typescript&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript)
+[![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript&logoWidth=20&logo=typescript&style=flat-square&logoColor=white)](https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript) -->
 
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino">
+    <img src="https://img.shields.io/static/v1?label=&message=Arduino&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-arduino&logoWidth=20&logo=arduino&style=flat-square&logoColor=white" alt="Arduíno"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-c">
+    <img src="https://img.shields.io/static/v1?label=&message=C&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-c&logoWidth=20&logo=C&style=flat-square&logoColor=white" alt="C"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp">
+    <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-cpp&logoWidth=20&logo=cplusplus&style=flat-square&logoColor=white" alt="C++"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp">
+    <img src="https://img.shields.io/static/v1?label=&message=C%23&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-csharp&logoWidth=20&logo=csharp&style=flat-square&logoColor=white" alt="C#"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-python">
+    <img src="https://img.shields.io/static/v1?label=&message=Python&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-python&logoWidth=20&logo=python&style=flat-square&logoColor=white" alt="Python"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-java">
+    <img src="https://img.shields.io/static/v1?label=&message=Java&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-java&logoWidth=20&logo=openjdk&style=flat-square&logoColor=white" alt="Java"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript">
+    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript&logoWidth=20&logo=javascript&style=flat-square&logoColor=white" alt="Javascript"/>
+</a>
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript">
+    <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=blue&url=https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript&logoWidth=20&logo=typescript&style=flat-square&logoColor=white" alt="Typescript"/>
+</a>
 
 </div>
 
@@ -92,6 +145,7 @@ By providing sponsorships and donations, you can support the continuous developm
     <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6" alt="PayPal Sponsors"/>
 </a>
 
+<br/>
 
 </div>
 
