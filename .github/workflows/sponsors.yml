@@ -1,4 +1,4 @@
-name: Update Sponsors in README
+name: Generate Sponsors README
 
 on:
   workflow_dispatch:
@@ -6,14 +6,13 @@ on:
     - cron: 30 15 * * 0-6
 
 jobs:
-  update-readme:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Update Sponsors in README
+      - name: Generate Sponsors
         uses: JamesIves/github-sponsors-readme-action@v1.2.2
         with:
           token: ${{ secrets.PAT }}
-          template-path: README.md
