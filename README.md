@@ -84,12 +84,17 @@ By providing sponsorships and donations, you can support the continuous developm
 <!-- [![Github Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white)](https://github.com/sponsors/jefmenegazzo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![PayPal Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6) -->
 
-![Github Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white&link=https://github.com/sponsors/jefmenegazzo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![PayPal Sponsors](https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6)
+<a href="https://github.com/sponsors/jefmenegazzo">
+    <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white&link=https://github.com/sponsors/jefmenegazzo" alt="Github Sponsors"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6">
+    <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6" alt="PayPal Sponsors"/>
+</a>
+
 
 </div>
 
 Maintenance of this project is made possible by all the following contributors and sponsors.
 
 <!-- sponsors --><!-- sponsors -->
-
