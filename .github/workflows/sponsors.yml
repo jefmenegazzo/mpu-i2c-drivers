@@ -1,23 +1,18 @@
-name: Generate Sponsors README
+name: Update Sponsors in README
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: 30 15 * * 0-6
+    - cron: '0 0 * * *'
+
 jobs:
-  deploy:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@v1
+      - name: Update Sponsors in README
+        uses: JamesIves/github-sponsors-readme-action@v2.0.1
         with:
           token: ${{ secrets.PAT }}
-          file: 'README.md'
-
-      - name: Deploy to GitHub Pages 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: '.'
+          template-path: README.md
