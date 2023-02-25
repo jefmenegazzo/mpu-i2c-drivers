@@ -145,7 +145,7 @@ By providing sponsorships and donations, you can support the continuous developm
     <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6" alt="PayPal Sponsors"/>
 </a>
 
-<br/>
+<br />
 
 </div>
 
