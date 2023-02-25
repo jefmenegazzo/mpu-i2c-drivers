@@ -1,6 +1,9 @@
 name: Generate Sponsors README
 
 on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["master"]
   workflow_dispatch:
   schedule:
     - cron: 30 15 * * 0-6
