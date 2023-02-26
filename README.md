@@ -35,10 +35,10 @@
     <img src="https://img.shields.io/badge/Project_Status-Active-green?style=flat-square&color=success" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed."/>
 </a>
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&color=success" alt="Maintenance"/>
+    <img src="https://img.shields.io/badge/Maintained-Yes-green.svg?style=flat-square&color=success" alt="Maintenance"/>
 </a>
 <a href="#LICENSE.txt">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square&color=success" alt="License: CC BY-NC-ND 4.0"/>
+    <img src="https://img.shields.io/badge/License-CC%20BY%2D-ND%204.0-lightgrey.svg?style=flat-square&color=success" alt="License: CC BY-ND 4.0"/>
 </a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6">
     <img src="https://img.shields.io/badge/Donate-PayPal-success.svg?style=flat-square" alt="Donate"/>
@@ -152,3 +152,7 @@ By providing sponsorships and donations, you can support the continuous developm
 Maintenance of this project is made possible by all the following contributors and sponsors.
 
 <!-- sponsors --><!-- sponsors -->
+
+## License
+
+The repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), which means you can share and distribute the code for both commercial and non-commercial purposes, as long as you give credit to the original author. However, the license does not allow you to make modifications to the original code, meaning that you are not permitted to create derivative works from it. Please see [License File](LICENSE.txt) for more information.
