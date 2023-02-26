@@ -37,7 +37,7 @@
 <a href="https://github.com/jefmenegazzo/mpu-i2c-drivers">
     <img src="https://img.shields.io/badge/Maintained-Yes-green.svg?style=flat-square&color=success" alt="Maintenance"/>
 </a>
-<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/blob/master/LICENSE.txt">
+<a href="https://github.com/jefmenegazzo/mpu-i2c-drivers/blob/master/LICENSE.md">
     <img src="https://img.shields.io/badge/License-CC%20BY%2D-ND%204.0-lightgrey.svg?style=flat-square&color=success" alt="License: CC BY-ND 4.0"/>
 </a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6">
@@ -155,4 +155,4 @@ Maintenance of this project is made possible by all the following contributors a
 
 ## License
 
-The repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), which means you can share and distribute the code for both commercial and non-commercial purposes, as long as you give credit to the original author. However, the license does not allow you to make modifications to the original code, meaning that you are not permitted to create derivative works from it. Please see [License File](https://github.com/jefmenegazzo/mpu-i2c-drivers/blob/master/LICENSE.txt) for more information.
+The repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), which means you can share and distribute the code for both commercial and non-commercial purposes, as long as you give credit to the original author. However, the license does not allow you to make modifications to the original code, meaning that you are not permitted to create derivative works from it. Please see [License File](https://github.com/jefmenegazzo/mpu-i2c-drivers/blob/master/LICENSE.md) for more information.
