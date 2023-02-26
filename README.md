@@ -65,7 +65,7 @@
 
 </div>
 
-# MPU I2C Drivers
+## MPU I2C Drivers
 
 The MPU-9250, MPU-9255, MPU-9150, MPU-6500, MPU-6555, and MPU-6050 are motion tracking devices equipped with a combination of accelerometer, gyroscope, and magnetometer sensors. They can operate in either 6-axis (MPU-6050) or 9-axis (MPU-9250, MPU-9255, MPU-9150, MPU-6500, MPU-6555) mode, providing high precision and low noise data for reliable performance. These sensors communicate via the I2C protocol.
 
@@ -111,7 +111,7 @@ To access the library documentation page in your programming language of choice,
 
 </div>
 
-# Roadmap
+## Roadmap
 
 This project is currently under development, according to the following roadmap. Along with the source code libraries, wikis will also be created that provide comprehensive support documentation for configuring RPi, I2C, VNC, SSH, and other related topics.
 
@@ -126,7 +126,7 @@ This project is currently under development, according to the following roadmap.
 | [Javascript](https://github.com/jefmenegazzo/mpu-i2c-drivers-javascript) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 | [Typescript](https://github.com/jefmenegazzo/mpu-i2c-drivers-typescript) |  <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> | <span style="color: orange;">Planned</span> |
 
-# Sponsors and Donations
+## Sponsors and Donations
 
 By providing sponsorships and donations, you can support the continuous development of these projects and help keep them active. The more sponsors I have, the more time I can devote to both existing and new projects. As a sponsor, you can suggest new features, support for other programming languages, MPU models, and your project suggestions will be given priority.
 
@@ -155,4 +155,4 @@ Maintenance of this project is made possible by all the following contributors a
 
 ## License
 
-The repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), which means you can share and distribute the code for both commercial and non-commercial purposes, as long as you give credit to the original author. However, the license does not allow you to make modifications to the original code, meaning that you are not permitted to create derivative works from it. Please see [License File](https://github.com/jefmenegazzo/mpu-i2c-drivers/blob/master/LICENSE.md) for more information.
+The repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0), which means you can share and distribute the code for both commercial and non-commercial purposes, as long as you give credit to the original author. However, the license does not allow you to make modifications to the original code, meaning that you are not permitted to create derivative works from it. Please see [License File](LICENSE.md) for more information.
